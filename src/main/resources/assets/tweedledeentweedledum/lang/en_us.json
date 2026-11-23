@@ -1,0 +1,17 @@
+{
+  "block.tweedledeentweedledum.tweedle_dee": "Tweedle Dee",
+  "block.tweedledeentweedledum.tweedle_dumb": "Tweedle Dumb",
+  "itemGroup.tweedledeentweedledum": "Create: TweedleDee n' Tweedle Dumb",
+  "message.tweedledeentweedledum.shoulders_full": "Both of your shoulders are already taken!",
+  "message.tweedledeentweedledum.sit_toggle": "Right-click to sit or stand; sneak-right-click to pick up onto your shoulder.",
+  "message.tweedledeentweedledum.tank_not_empty": "Empty this plushie tank before putting it on your shoulder.",
+  "curios.identifier.tweedle": "Tweedle Plushies",
+  "item.tweedledeentweedledum.tweedle_fiber": "Tweedle Fiber",
+  "item.tweedledeentweedledum.tweedle_stuffing": "Precision Stuffing",
+  "item.tweedledeentweedledum.tweedle_frame": "Mechanical Plush Frame",
+  "item.tweedledeentweedledum.tweedle_eyes": "Polished Plush Eyes",
+  "item.tweedledeentweedledum.dee_fabric": "Dee Blue Fabric",
+  "item.tweedledeentweedledum.dumb_fabric": "Dumb Red Fabric",
+  "tooltip.tweedledeentweedledum.stored_fluid": "Stored fluid: %s",
+  "tooltip.tweedledeentweedledum.fluid_amount": "%s / %s mB"
+}

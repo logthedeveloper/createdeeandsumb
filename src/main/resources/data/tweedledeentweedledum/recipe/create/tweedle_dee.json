@@ -1,0 +1,48 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "create:brass_sheet"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "F": {
+      "item": "tweedledeentweedledum:dee_fabric"
+    },
+    "E": {
+      "item": "minecraft:slime_ball"
+    },
+    "S": {
+      "item": "create:shaft"
+    },
+    "P": {
+      "item": "minecraft:stick"
+    },
+    "T": {
+      "item": "minecraft:wheat"
+    },
+    "M": {
+      "item": "create:precision_mechanism"
+    }
+  },
+  "pattern": [
+    " BGB ",
+    " FEF ",
+    "SPTMS",
+    " FEF ",
+    " BGB "
+  ],
+  "result": {
+    "id": "tweedledeentweedledum:tweedle_dee",
+    "count": 1
+  }
+}

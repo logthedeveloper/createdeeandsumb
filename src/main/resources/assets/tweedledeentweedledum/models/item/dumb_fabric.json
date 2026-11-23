@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tweedledeentweedledum:item/dumb_fabric"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=north,sitting=false": {
+      "model": "tweedledeentweedledum:block/tweedle_dee"
+    },
+    "facing=east,sitting=false": {
+      "model": "tweedledeentweedledum:block/tweedle_dee",
+      "y": 90
+    },
+    "facing=south,sitting=false": {
+      "model": "tweedledeentweedledum:block/tweedle_dee",
+      "y": 180
+    },
+    "facing=west,sitting=false": {
+      "model": "tweedledeentweedledum:block/tweedle_dee",
+      "y": 270
+    },
+    "facing=north,sitting=true": {
+      "model": "tweedledeentweedledum:block/tweedle_dee_sitting"
+    },
+    "facing=east,sitting=true": {
+      "model": "tweedledeentweedledum:block/tweedle_dee_sitting",
+      "y": 90
+    },
+    "facing=south,sitting=true": {
+      "model": "tweedledeentweedledum:block/tweedle_dee_sitting",
+      "y": 180
+    },
+    "facing=west,sitting=true": {
+      "model": "tweedledeentweedledum:block/tweedle_dee_sitting",
+      "y": 270
+    }
+  }
+}
